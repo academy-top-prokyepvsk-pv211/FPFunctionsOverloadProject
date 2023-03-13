@@ -57,9 +57,10 @@ float Amount(float a, float b)
     return a + b;
 }
 
-template <typename T>
-T Amount(T a, T b)
-{
-    return a + b;
-}
+//template <typename T>
+//T Amount(T a, T b)
+//{
+//    return a + b;
+//}
+
 
